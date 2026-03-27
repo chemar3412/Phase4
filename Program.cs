@@ -107,7 +107,7 @@ namespace Phase3
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Project Week 3, Memory Function, Chelsea Martin");
+            Console.WriteLine("Project Week 4, Exception handling, Chelsea Martin");
             Console.WriteLine("Welcome to the Calculator!");
 
             RunMenuLoop();
